@@ -37,7 +37,7 @@
   <summary>Frameworks and Libraries</summary>
   
 > ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/nextjs-%2320232a.svg?style=for-the-badge&logoColor=%2361DAFB)
+![NextJS](https://img.shields.io/badge/nextjs-%2320232a.svg?style=for-the-badge)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </details>
@@ -45,8 +45,8 @@
 <details>
   <summary>Database</summary>
   
-> ![PostgreeSQL](https://img.shields.io/badge/-PostgreSQL-61DAFB?logo=postgresql&logoColor=white&style=for-the-badge)
-![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-61DAFB?logo=microsoftsqlserver&logoColor=red&style=for-the-badge)
+> ![PostgreeSQL](https://img.shields.io/badge/-PostgreSQL-61DAFB?logo=postgresql&logoColor=black&style=for-the-badge)
+![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-white?logo=microsoftsqlserver&logoColor=red&style=for-the-badge)
 </details>
 
 <details>
