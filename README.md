@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-👋 Heyyy! I'm Gabriel Lavarini, a brazilian programmer.
+👋 Hello! I'm Gabriel Lavarini, a brazilian programmer.
 </p>
 
 ## **🐉 About me:**
