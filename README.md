@@ -15,7 +15,7 @@
 </p>
 
 ## **🐉 About me:**
-* Gabriel Lavarini, 28 years
+* Gabriel Lavarini
 * Full Stack programmer
 * Currently studying Styled Components in React
 
