@@ -17,7 +17,7 @@
 ## **🐉 About me:**
 * Gabriel Lavarini
 * Full Stack programmer
-* Currently studying Styled Components in React
+* Currently studying React Redux
 
 ## **💬 My skills:**
 <details>
