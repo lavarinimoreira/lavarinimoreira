@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://pbs.twimg.com/profile_banners/1611428618416132098/1682376883/1500x500" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.lavarinimoreira.me" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
@@ -16,7 +16,7 @@
 
 ## **🐉 About me:**
 * Gabriel Lavarini
-* Full Stack programmer
+* Front end developer
 * Currently studying React Redux
 
 ## **💬 My skills:**
